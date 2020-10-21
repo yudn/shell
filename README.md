@@ -1,6 +1,6 @@
-# this is a linuxs shell study book hope it help you can right write a bash shell file
 
-___linux shell 教程___<br>
+#__linux shell 教程___<br>
+this is a linuxs shell study book <br>
 01-shell 语法格式<br>
 02-shell 变量引用<br>
 03-shell 数据类型<br>
